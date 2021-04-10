@@ -29,7 +29,7 @@ h1{
 
 
 input[type="text"], 
-input[type="pasword"]{
+input[type="password"]{
     font-size: 20px;
     width: 82%;
     padding: 10px;
