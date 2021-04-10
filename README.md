@@ -3,3 +3,5 @@
 # Preview
 
 ![](docs/screenshot.png)
+
+ver deployment [https://sifrisky.github.io/login-html-css/]
