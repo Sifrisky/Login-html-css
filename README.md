@@ -1,4 +1,4 @@
-### Login realizado con HTML y CSS.
+### Login y Registro realizado con HTML y CSS puro.
 
 
 # Preview
