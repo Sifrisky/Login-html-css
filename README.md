@@ -2,7 +2,7 @@
 
 
 # Preview
-ver deployment [https://sifrisky.github.io/login-html-css/]
+ver deployment [https://sifrisky.github.io/Login-html-css/]
 
 ![](docs/screenshot.png)
 
